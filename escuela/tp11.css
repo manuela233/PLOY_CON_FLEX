@@ -1,0 +1,6 @@
+
+body{background-color: antiquewhite;}
+p{ display:inline; margin-top: 100px; padding: 50px;margin-left: 50px;}
+.uno{background-color: aquamarine;font-size: 30px;border: solid 3px black;border-radius: 10px;}
+.dos{background-color: pink;font-size: 30px;border: solid 3px black;border-radius: 10px; border-radius: 10px;}
+.tres{background-color: lightblue;font-size: 30px;border: solid 3px black; border-radius: 10px;}

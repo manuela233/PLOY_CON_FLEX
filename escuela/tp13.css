@@ -1,0 +1,7 @@
+body{background-color: grey;}
+.caja1{background-color: white; border-left: solid 5px rgb(255, 0, 0);
+    box-shadow: 2px 2px 4px rgb(0, 0, 0, 1); width: 150px;padding: 5px;margin: 5px;}
+.caja2{background-color: white; border-left: solid 5px rgb(7, 219, 0);
+    box-shadow: 2px 2px 4px rgb(0, 0, 0, 1); width: 150px;padding: 5px;margin: 5px;}
+.caja3{background-color: white; border-left: solid 5px rgb(3, 7, 253);
+    box-shadow: 2px 2px 4px rgb(0, 0, 0, 1); width: 150px;padding: 5px; margin: 5px;}

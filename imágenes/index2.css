@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body{background-color:#ffdc73 ;}
+
+.título{background-color: #ffbf00 ;
+display: flex;
+justify-content: center;
+font-size: 20px;
+font-family:'Pacifico', cursive;
+margin-bottom: 20px;
+border-style: dashed;
+border-color: antiquewhite;}
+
+.caja1{font-family:'Pacifico', cursive;
+font-size: 17px;}
+
+#img1{width: 40%;
+display: flex;}
+
+.espaciado{margin-left: 50px;}
+
+.video{ padding: 100px;}
+
+.links{color: blue;}
+
+.caja2{display: flex;
+    justify-content: center;}
+
+ .título2{background-color: #ffbf00 ;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family:'Pacifico', cursive;
+    margin-bottom: 20px;
+    border-style: dashed;
+    border-color: antiquewhite;
+margin-right: 1420px;}
+.colores{background-color: #ffbf00;}
+

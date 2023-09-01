@@ -1,0 +1,9 @@
+body{background-color: antiquewhite;}
+p{color: black;
+font-family: 'Times New Roman', Times, serif;
+text-indent: 10px;
+word-spacing: 10px;
+letter-spacing: 5px;
+text-align: center;
+line-height: 10px;}
+.caja{background-color: pink; text-shadow: 2px 2px 3px rgba(0,0,0,1)}

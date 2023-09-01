@@ -1,0 +1,10 @@
+.fondo{ height: 500px;
+background-image: url(bees.avif);
+background-color: green;
+background-repeat: no-repeat;
+background-position: right bottom;
+background-attachment: fixed;
+background-size: cover;}
+body{background-color: yellow;}
+p{color: rgb(192, 221, 255);
+font-family:'Times New Roman', Times, serif; font-weight: bold;font-size: medium;}

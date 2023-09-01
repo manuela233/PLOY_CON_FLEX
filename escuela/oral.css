@@ -1,0 +1,10 @@
+body{background-color: aqua;}
+p{display: inline;}
+#uno{background-color: brown;}
+#dos{background-color: blueviolet;}
+.inv{display: none;}
+span{display: block;}
+#caja{ max-width: 350px;
+background-color: yellow;}
+
+

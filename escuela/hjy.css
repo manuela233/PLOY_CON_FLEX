@@ -1,0 +1,17 @@
+body{ background-color: peachpuff;}
+ul {list-style-type: lower-alpha;
+background-color: gold;
+border-color: chocolate;
+border-radius: 5px;
+border-style: double;
+padding-top: 10px;
+
+}
+
+li {color: tomato; padding-top: 5px; 
+    background-color: khaki; 
+    border: 10px;}
+.caja2 {border: 5px; border-radius: 3px;border-color: brown;
+background-color: indianred;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: italic;color: darksalmon;}

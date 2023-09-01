@@ -1,0 +1,4 @@
+.fondo{ box-shadow: 2px 2px 4px rgb(0, 0, 0, 1) inset; width: 150px;
+transform: translate(50);}
+.box2{ transform: rotate(20deg);border-color: black;border-width: 10px;}
+.texto{ color: blueviolet;text-shadow: 0px 1px 2px rgb(259, 0, 0, 0, 0);}
