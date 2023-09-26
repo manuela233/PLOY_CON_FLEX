@@ -1,0 +1,12 @@
+.grid{display: grid;
+    grid-template-columns:100px repeat(4, 150px);
+    grid-template-rows: 100px 100px; 
+    grid-gap: 1px;}
+    
+    .elemento{ background-color: rgb(95, 99, 118);
+    color: rgb(255, 255, 255);
+    border: solid 1px;
+ text-align: center;} 
+ .celda1{grid-column: span 5;}
+ .celda2{grid-row: span 3;}
+        

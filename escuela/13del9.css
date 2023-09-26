@@ -1,0 +1,11 @@
+.grid{ display: grid;
+grid-template-areas: "header header" "content sider" "footer footer";
+grid-template-columns: 1fr 200px ; grid-template-rows: 150px 1fr 100px ; 
+grid-auto-columns: 50px; grid-auto-flow: column;}
+
+
+.red{background-color: red;
+border: solid 1px black;}
+
+.blue{background-color: blue;
+border: solid 1px black;}

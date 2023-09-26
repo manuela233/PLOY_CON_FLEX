@@ -1,0 +1,20 @@
+body{margin: 0px; background-image: url(bees.avif);}
+
+
+.grid{ display: grid;
+    grid-template-areas: "header header" "content sider" "footer footer";
+    grid-template-columns: repeat(4, 50px); grid-template-rows:repeat(5, 50px); 
+    grid-auto-columns: 50px; grid-auto-flow: column;
+    grid-gap: 5px;
+justify-content: end;
+align-content: end;}
+    
+    
+    .red{background-color: red;
+    border: solid 1px black;}
+    
+    .blue{background-color: blue;
+    border: solid 1px black;}
+
+    .item1{ align-self: center;justify-self: center;
+    background-color: aquamarine;}

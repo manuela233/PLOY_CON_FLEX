@@ -36,4 +36,9 @@ display: flex;}
     border-color: antiquewhite;
 margin-right: 1420px;}
 .colores{background-color: #ffbf00;}
-
+.button{display: flex;
+    justify-content: center;}
+.b{background-color: rgb(255, 234, 157);}    
+.checkbox{ display: flex; justify-content: flex-start; background-color: rgb(255, 234, 157);}
+.option{ display: flex; justify-content: center; background-color: rgb(255, 234, 157);}
+.input{ display: flex; justify-content: flex-end; background-color: rgb(255, 234, 157);}

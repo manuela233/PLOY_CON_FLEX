@@ -3,3 +3,4 @@ body{background-image:url(pintura-pagoda.avif);
     background-size: cover;}
     img{width: 500px;
     margin-top: 50px;}
+.geisha{ align-items: flex-end;}
